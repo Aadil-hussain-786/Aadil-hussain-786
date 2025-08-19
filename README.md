@@ -54,18 +54,34 @@
 
 ---
 
-## 📊 GitHub Analytics
+
 
 <div align="center">
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<!-- Animated Snake Graph -->
-![GitHub Snake Light](https://github.com/Aadil-hussain-786/Aadil-hussain-786/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Aadil-hussain-786/Aadil-hussain-786/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<br>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+## 📊 GitHub Analytics
 <!-- Stats Cards -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadil-hussain-786&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-hussain-786&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Aadil-hussain-786&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadil-hussain-786&show_icons=true&count_private=true&hide_rank=true&theme=light&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-hussain-786&layout=compact&theme=light&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aadil-hussain-786&theme=light&hide_border=true)
 
 </div>
 
