@@ -77,10 +77,6 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-## 📊 GitHub Analytics
-<!-- Stats Cards -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadil-hussain-786&show_icons=true&count_private=true&hide_rank=true&theme=light&hide_border=true)
-
 </div>
 
 ---
