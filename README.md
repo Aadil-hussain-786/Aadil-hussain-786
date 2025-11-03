@@ -80,7 +80,6 @@
 ## 📊 GitHub Analytics
 <!-- Stats Cards -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadil-hussain-786&show_icons=true&count_private=true&hide_rank=true&theme=light&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-hussain-786&layout=compact&theme=light&hide_border=true)
 
 </div>
 
