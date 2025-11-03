@@ -21,7 +21,7 @@
 
 | Project | Tech Stack | Demo |
 |---------|------------|------|
-| **[AI Sentiment Analyzer](https://github.com/Aadil-hussain-786/Sentiment/blob/main/sentiment.py)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [![Open in Colab](https://img.shields.io/badge/Colab-FFCB2B?style=flat&logo=googlecolab&logoColor=black)](https://github.com/Aadil-hussain-786/Sentiment/blob/main/sentiment.py) |
+| **[AI Sentiment Analyzer](https://github.com/Aadil-hussain-786/Sentiment/blob/main/sentiment.py)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | [![Open in Colab](https://img.shields.io/badge/Colab-FFCB2B?style=flat&logo=googlecolab&logoColor=black)](https://colab.research.google.com/drive/1BhgAAYKnzXzTr0Dlt8pfbY7HyEgDW1D7#scrollTo=QOUVf4_nDgEj) |
 | **[Neural Network Workshop](https://github.com/Aadil-hussain-786/repo2)** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) | [![Watch Video](https://img.shields.io/badge/Watch-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.linkedin.com/posts/aadil-hussain-8b9909315_aifromscratch-neuralnetworks-deeplearning-activity-7325089957130182656-9g5T) |
 
 </div>
@@ -81,7 +81,6 @@
 <!-- Stats Cards -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadil-hussain-786&show_icons=true&count_private=true&hide_rank=true&theme=light&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadil-hussain-786&layout=compact&theme=light&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Aadil-hussain-786&theme=light&hide_border=true)
 
 </div>
 
